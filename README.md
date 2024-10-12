@@ -2,7 +2,7 @@
 
 <!-- Background Image -->
 <p align="center">
-  <img src="[https://i.redd.it/o1ecp52lw4e71.png](https://backiee.com/static/wallpapers/560x315/318448.jpg)" alt="Background Image" style="width:100%; height:300px; object-fit:cover;">
+  <img src="https://wallpapercave.com/wp/wp12973913.jpg" alt="Background Image" style="width:100%; height:300px; object-fit:cover;">
 </p>
 
 I'm Tran Bao Chi, currently working at **VinAI Research**.
