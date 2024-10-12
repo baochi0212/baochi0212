@@ -8,9 +8,9 @@ I'm currently NLP engineer at VinAI Research, based in Hanoi Captial Regions.
 <!-- + 🏆: Participated in several national competitions, such as [RoboMaster](https://www.robomaster.com/en-US) and [National Students' SmartCar Competition](https://www.smartcar.zone), and achieved some results, including national awards. These competitions have been truly fascinating. -->
 <!-- + 💡: I really enjoy hackathon competitions, I welcome teaming up for these events! -->
 <!--   -->
-<!-- <a> -->
-<!--   <img align="right" src="https://github.com/zRzRzRzRzRzRzR/zRzRzRzRzRzRzR/blob/main/Pic/logo2.png"  width="80" height="80" border="80"/> -->
-<!-- </a> -->
+<a> 
+  <img align="right" src="https://4kwallpapers.com/images/walls/thumbs_2t/15344.png"  width="80" height="80" border="80"/>
+</a> 
 <!-- <a> -->
 <!--   <img align="right" src="https://github.com/zRzRzRzRzRzRzR/zRzRzRzRzRzRzR/blob/main/Pic/1.png" width="180" height="240"/> -->
 <!-- </a> -->
