@@ -1,9 +1,3 @@
-<!-- Global Monospace Font Style -->
-<style>
-  body {
-    font-family: monospace;
-  }
-</style>
 # Hi there! I'm Chi Tran🫰
 
 <!-- Background Image -->
