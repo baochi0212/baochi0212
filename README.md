@@ -2,7 +2,7 @@
 
 <!-- Background Image -->
 <p align="center">
-  <img src="https://w0.peakpx.com/wallpaper/446/387/HD-wallpaper-mountains-retreat-minimal-beautiful-minimalism-minimalist-nature-artist-artwork-digital-art-deviantart.jpg" alt="Background Image" style="width:100%; height:300px; object-fit:cover;">
+  <img src="https://w0.peakpx.com/wallpaper/446/387/HD-wallpaper-mountains-retreat-minimal-beautiful-minimalism-minimalist-nature-artist-artwork-digital-art-deviantart.jpg" alt="Background Image" style="width:100%; height:600px; object-fit:cover;">
 </p>
 
 I'm Tran Bao Chi, currently working at **VinAI Research**.
