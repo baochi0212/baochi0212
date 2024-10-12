@@ -9,7 +9,7 @@ I'm currently NLP engineer at VinAI Research, based in Hanoi Captial Regions.
 <!-- + 💡: I really enjoy hackathon competitions, I welcome teaming up for these events! -->
 <!--   -->
 <a> 
-  <img align="right" src="https://4kwallpapers.com/images/walls/thumbs_2t/15344.png"  width="200" height="300" border="80"/>
+  <img align="right" src="https://4kwallpapers.com/images/walls/thumbs_2t/15344.png"  width="300" height="300" border="80"/>
 </a> 
 <!-- <a> -->
 <!--   <img align="right" src="https://github.com/zRzRzRzRzRzRzR/zRzRzRzRzRzRzR/blob/main/Pic/1.png" width="180" height="240"/> -->
