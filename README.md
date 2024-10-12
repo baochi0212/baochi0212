@@ -5,19 +5,20 @@
   <img src="https://wallpapercave.com/wp/wp12973913.jpg" alt="Background Image" style="width:100%; height:300px; object-fit:cover;">
 </p>
 
-I'm Tran Bao Chi, currently working at **VinAI Research**.
+I'm currently NLP Engineer at **VinAI Research**.
 
 ### 🌟 A bit about me:
 - 🛠 Working on:
-  - [Your main project(s)]
-  - [Interesting topics or technologies you're exploring]
+  - Multimodal: pioneer in Vietnamese MLLM. 
+  - LLM: first open-source monolingual Vietnamese LLM 
+  - RAG: develop end-to-end RAG pipeline for applications  
 - 💡 Topics of interest:
-  - Machine Learning and AI
-  - MLOps and DevOps
-  - Python & C++
-  - Data Science
-- 🌱 Currently learning:
-  - Mandarin 🇨🇳
-  - [Any other skills you're picking up!]
+  - Machine Learning
+  - MLOps 
+  - ML Optimization
+- 🌱 Plan learning:
+  - Triton
+  - Mandarin
+  - MoE
 
 Feel free to explore my repositories and connect with me! 😄
