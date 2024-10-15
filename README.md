@@ -5,7 +5,7 @@
   <img src="https://wallpapercave.com/wp/wp12973913.jpg" alt="Background Image" style="width:100%; height:300px; object-fit:cover;">
 </p>
 
-I'm currently NLP Engineer at **VinAI Research**.
+I'm currently working as NLP Engineer at **VinAI Research**.
 
 ### 🌟 A bit about me:
 - 🛠 Working on:
@@ -16,7 +16,7 @@ I'm currently NLP Engineer at **VinAI Research**.
   - Machine Learning
   - MLOps 
   - ML Optimization
-- 🌱 Plan learning:
+- 🌱 On-goining:
   - Triton
   - Mandarin
   - MoE
