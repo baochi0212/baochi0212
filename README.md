@@ -1,4 +1,4 @@
-# Hi there! I'm Chi Tran🫰
+# Hi there! I'm Chi Tran 😉
 
 <!-- Background Image -->
 <p align="center">
