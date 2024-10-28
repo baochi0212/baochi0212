@@ -10,8 +10,8 @@ I'm currently working as NLP Engineer at **VinAI Research**.
 ### 🌟 A bit about me:
 - 🛠 Working on:
   - Multimodal: pioneer in Vietnamese MLLM. 
-  - LLM: first open-source monolingual Vietnamese LLM 
-  - RAG: develop end-to-end RAG pipeline for applications  
+  - Large Language Model: first open-source monolingual Vietnamese LLM 
+  - Retrieval-Augmented Generation: develop end-to-end RAG pipeline, Text Embedding models for applications  
 - 💡 Topics of interest:
   - Machine Learning
   - MLOps 
