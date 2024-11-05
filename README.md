@@ -16,7 +16,7 @@ I'm currently working as NLP Engineer at **VinAI Research**.
   - Machine Learning
   - MLOps 
   - ML Optimization
-- 🌱 On-goining:
+- 🌱 On-going:
   - Triton
   - Mandarin
   - MoE
