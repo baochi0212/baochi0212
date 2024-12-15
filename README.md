@@ -9,8 +9,8 @@ I'm currently working as NLP Engineer at **VinAI Research**.
 
 ### 🌟 A bit about me:
 - 🛠 Working on:
-  - Multimodal: LaVy pioneering in Vietnamese MLLM
-  - Large Language Model: state-of the-art open-source Vietnamese LLM PhoGPT 
+  - Multimodal: LaVy pioneering in Vietnamese MLLM, Portrayer as Long-generation Multmodal Model,... 
+  - Large Language Model: state-of the-art open-source Vietnamese LLM PhoGPT, ...
   - Retrieval-Augmented Generation: develop end-to-end RAG pipeline, Text Embedding models for applications  
 - 💡 Topics of interest:
   - Machine Learning
