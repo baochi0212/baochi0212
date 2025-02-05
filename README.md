@@ -5,7 +5,7 @@
   <img src="https://4kwallpapers.com/images/walls/thumbs_3t/19885.jpg" alt="Background Image" style="width:100%; height:300px; object-fit:cover;">
 </p>
 
-I'm currently working as NLP Reserach Engineer at **VinAI Research**.
+I'm currently working as NLP Research Engineer at **VinAI Research**.
 
 ### 🌟 A bit about me:
 - 🛠 Working on:
