@@ -2,7 +2,7 @@
 
 <!-- Background Image -->
 <p align="center">
-  <img src="https://wallpapercave.com/wp/wp12973913.jpg" alt="Background Image" style="width:100%; height:300px; object-fit:cover;">
+  <img src="https://4kwallpapers.com/images/walls/thumbs_3t/19885.jpg" alt="Background Image" style="width:100%; height:300px; object-fit:cover;">
 </p>
 
 I'm currently working as NLP Reserach Engineer at **VinAI Research**.
