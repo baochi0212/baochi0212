@@ -1,10 +1,4 @@
 # Hi there! I'm Chi Tran
-
-<!-- Background Image -->
-<p align="center">
-  <img src="https://4kwallpapers.com/images/walls/thumbs_3t/9766.jpg" alt="Background Image" style="width:100%; height:400px; object-fit:cover;">
-</p>
-
 I'm currently working  as MLE at Qualcomm AI Research, and  ex NLP Research Engineer at **VinAI Research**.
 
 ### About me:
