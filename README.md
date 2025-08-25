@@ -7,16 +7,16 @@
 
 I'm currently working  as MLE at Qualcomm AI Research, and  ex NLP Research Engineer at **VinAI Research**.
 
-### 🌟 A bit about me:
-- 🛠 Working on:
+### About me:
+- Working on:
   - Multimodal: LaVy pioneering in Vietnamese MLLM, Portrayer as Long-generation Multmodal Model,... 
   - Large Language Model: state-of the-art open-source Vietnamese LLM PhoGPT, ...
   - Retrieval-Augmented Generation: develop end-to-end RAG pipeline, Text Embedding models for applications  
-- 💡 Topics of interest:
+- Topics of interest:
   - Machine Learning
   - MLOps 
   - ML Optimization
-- 🌱 On-going:
+- On-going:
   - Triton
   - Mandarin
   - MoE
