@@ -1,5 +1,5 @@
 # Hi there! I'm Chi Tran
-I'm currently working  as MLE at Qualcomm AI Research, and  ex NLP Research Engineer at **VinAI Research**.
+I'm currently working  as MLE at *Qualcomm AI Research*, and ex Research Engineer at *VinAI Research*.
 
 ### About me:
 - Working on:
