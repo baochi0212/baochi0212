@@ -2,17 +2,13 @@
 I'm currently working  as MLE at *Qualcomm AI Research*, and ex Research Engineer at *VinAI Research*.
 
 ### About me:
-- Working on:
-  - Multimodal: LaVy pioneering in Vietnamese MLLM, Portrayer as Long-generation Multmodal Model,... 
-  - Large Language Model: state-of the-art open-source Vietnamese LLM PhoGPT, ...
+-  Past work:
+  - Multimodal: Edge-device Multimodal Model (Elvis), Pioneering in Vietnamese MLLM (Lavy), Long-generation Multmodal Model (Portrayer), ...
+  - Large Language Model: State-of the-art open-source Vietnamese LLM (PhoGPT), ...
   - Retrieval-Augmented Generation: develop end-to-end RAG pipeline, Text Embedding models for applications  
 - Topics of interest:
-  - Machine Learning
-  - MLOps 
-  - ML Optimization
-- On-going:
-  - Triton
-  - Mandarin
-  - MoE
+  - Agents 
+  - Reinforcement Learning
+  - Multmodal Large Language Models
 
 Feel free to explore my repositories and connect with me! 😄
